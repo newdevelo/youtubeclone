@@ -3,7 +3,7 @@ const videolist = [{
         id: 1,
         title: "100 + Computer Science Concepts Explained",
         channelname: "Fireship",
-        views: "1,1M Views • 8 M",
+        views: "1,1M Views • 8 Months ago",
         thumbnail: "./images/maxresdefaulte.jpg",
         channellogo: "./images/named.jpg",
         category: "Computer Science",
